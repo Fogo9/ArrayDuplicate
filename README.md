@@ -1,14 +1,14 @@
 # **ARRAY DUPLICATE**
 
-# Information
+## INFORMATION
 
 * **Program to find how many times the elements in the array are repeated, that is, their frequencies.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * List, count, i and j variables are declared with int.
 
@@ -16,9 +16,7 @@
 
 * Indicates how many times numbers are repeated using for and if loops.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -89,13 +87,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ArrayDuplicate.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
